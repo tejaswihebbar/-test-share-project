@@ -8,7 +8,8 @@ creator.gui.screen qml52e8802048de4b448ac9d181ce4edd33 "Welcome"
 			status = dontcare;
 		creator.gui.textbox qml3f8346248c56470a95673574a34bdc6b "password"
 			type = String
-			status = dontcare;
+			status = dontcare
+			deleted;
 	}
 	creator.gui.button qml210720c21179457d98372e467a5b2313 "Login"
 		status = dontcare;
