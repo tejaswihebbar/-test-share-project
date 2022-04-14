@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_QT7DoLvlEeyHSIEEDsQWhg" type="Dsl" name="Structure%20Diagram.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_Q2ygILvlEeyHSIEEDsQWhg" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Q2zHMLvlEeyHSIEEDsQWhg" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Q2zHMbvlEeyHSIEEDsQWhg" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_SA2fgLvlEeyHSIEEDsQWhg" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_SA2fhrvlEeyHSIEEDsQWhg" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_SA2fh7vlEeyHSIEEDsQWhg" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_SyxrsLvlEeyHSIEEDsQWhg" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_SyxrsrvlEeyHSIEEDsQWhg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Syxrs7vlEeyHSIEEDsQWhg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml58a772c8055d4f04b53749083d9c594e"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SyxrsbvlEeyHSIEEDsQWhg" x="36" y="34"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_TWyXsLvlEeyHSIEEDsQWhg" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_TWyXsrvlEeyHSIEEDsQWhg" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_TWyXs7vlEeyHSIEEDsQWhg" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml3f8346248c56470a95673574a34bdc6b"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TWyXsbvlEeyHSIEEDsQWhg" x="265" y="25"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_SA2fgbvlEeyHSIEEDsQWhg"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_SA2fgrvlEeyHSIEEDsQWhg" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_SA2fg7vlEeyHSIEEDsQWhg"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_SA2fhLvlEeyHSIEEDsQWhg"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="Structure%20Diagram.sl#qmle682e64bee3b45f8a972dec577f42f10"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SA2fhbvlEeyHSIEEDsQWhg" x="73" y="18" width="529" height="151"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UEKbELvlEeyHSIEEDsQWhg" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_UELCILvlEeyHSIEEDsQWhg" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_UEKbEbvlEeyHSIEEDsQWhg"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_UEKbErvlEeyHSIEEDsQWhg" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_UEKbE7vlEeyHSIEEDsQWhg"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Structure%20Diagram.sl#qml210720c21179457d98372e467a5b2313"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UEKbFLvlEeyHSIEEDsQWhg" x="215" y="188"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Q2ygIbvlEeyHSIEEDsQWhg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Q2ygIrvlEeyHSIEEDsQWhg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_Q2ygI7vlEeyHSIEEDsQWhg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Q2ygJLvlEeyHSIEEDsQWhg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="Structure%20Diagram.sl#qml52e8802048de4b448ac9d181ce4edd33"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q2ygJbvlEeyHSIEEDsQWhg" x="132" y="42" width="769" height="313"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_QT7DobvlEeyHSIEEDsQWhg"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="Structure%20Diagram.sl#/"/>
+</notation:Diagram>
