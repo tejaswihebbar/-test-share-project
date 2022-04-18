@@ -10,12 +10,16 @@ creator.gui.screen qml52e8802048de4b448ac9d181ce4edd33 "Welcome"
 			type = String
 			status = dontcare
 			deleted;
+		creator.gui.button qmlc3fd9f817e5947cb9d88df5dc00585ba "Help"
+			status = dontcare;
 	}
 	creator.gui.button qml210720c21179457d98372e467a5b2313 "Login"
 		status = dontcare;
 }
 creator.gui.screen qml9fe27ab5777e4c529aee08d4ea42a92e "Home"
+	deleted
 {
 	creator.gui.hyperlink qml87a276a992094d1282f02f8d5f9345b7 "my accounts"
-		status = dontcare;
+		status = dontcare
+		deleted;
 }

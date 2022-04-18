@@ -14,7 +14,17 @@
     <nodes xmi:type="ad:ActivityNode" xmi:id="_bxQpoLvlEeyHSIEEDsQWhg" name="Welcome" controlFlowsIn="_ehiY4LvlEeyHSIEEDsQWhg">
       <actionInvocations xmi:type="ad:ActionInvocation" xmi:id="_dA5skLvlEeyHSIEEDsQWhg" methodRef="qmle682e64bee3b45f8a972dec577f42f10_Fill_Form_Action">
         <inputArgs xmi:type="ad:Expression" xmi:id="_dA5skbvlEeyHSIEEDsQWhg">
-          <clause xmi:type="ad:FunctionCallClause" xmi:id="_dA5skrvlEeyHSIEEDsQWhg" methodRef="qmle682e64bee3b45f8a972dec577f42f10_Dont_Care_Value"/>
+          <clause xmi:type="ad:InlineValueClause" xmi:id="_XFiAoL8iEeyBEO1YeCx93Q" qmlId="qmlab526dfc450d46429f7174faf17c033b">
+            <fields xmi:type="ad:ValueField" xmi:id="_XFiAob8iEeyBEO1YeCx93Q" fieldRef="qml58a772c8055d4f04b53749083d9c594e">
+              <possibleValues xmi:type="ad:Expression" xmi:id="_XFiAor8iEeyBEO1YeCx93Q">
+                <clause xmi:type="ad:StringLiteralClause" xmi:id="_XUtsIL8iEeyBEO1YeCx93Q" value="a"/>
+              </possibleValues>
+              <possibleValues xmi:type="ad:Expression" xmi:id="_X4u_ML8iEeyBEO1YeCx93Q">
+                <clause xmi:type="ad:StringLiteralClause" xmi:id="_X4u_Mb8iEeyBEO1YeCx93Q" value="b"/>
+              </possibleValues>
+            </fields>
+            <type xmi:type="ad:CustomTypeRef" xmi:id="_XFiApL8iEeyBEO1YeCx93Q" idRef="qmle682e64bee3b45f8a972dec577f42f10"/>
+          </clause>
         </inputArgs>
       </actionInvocations>
       <actionInvocations xmi:type="ad:ActionInvocation" xmi:id="_dzlGsLvlEeyHSIEEDsQWhg" methodRef="qml210720c21179457d98372e467a5b2313_Click_Action_qml52e8802048de4b448ac9d181ce4edd33"/>

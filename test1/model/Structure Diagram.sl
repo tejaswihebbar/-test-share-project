@@ -10,6 +10,8 @@ creator.gui.screen qml52e8802048de4b448ac9d181ce4edd33 "Welcome"
 			type = String
 			status = dontcare
 			deleted;
+		creator.gui.button qmlc3fd9f817e5947cb9d88df5dc00585ba "Help"
+			status = dontcare;
 	}
 	creator.gui.button qml210720c21179457d98372e467a5b2313 "Login"
 		status = dontcare;

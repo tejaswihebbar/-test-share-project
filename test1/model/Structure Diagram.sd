@@ -12,6 +12,14 @@
             <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="Structure%20Diagram.sl#qml58a772c8055d4f04b53749083d9c594e"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SyxrsbvlEeyHSIEEDsQWhg" x="36" y="34"/>
           </children>
+          <children xmi:type="notation:Node" xmi:id="_RAq7ML8iEeyBEO1YeCx93Q" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_RAsJUL8iEeyBEO1YeCx93Q" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_RAq7Mb8iEeyBEO1YeCx93Q"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_RAq7Mr8iEeyBEO1YeCx93Q" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_RAq7M78iEeyBEO1YeCx93Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="Structure%20Diagram.sl#qmlc3fd9f817e5947cb9d88df5dc00585ba"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RAq7NL8iEeyBEO1YeCx93Q" x="303" y="44"/>
+          </children>
         </children>
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_SA2fgbvlEeyHSIEEDsQWhg"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_SA2fgrvlEeyHSIEEDsQWhg" fontName="Segoe UI"/>
